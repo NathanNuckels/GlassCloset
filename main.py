@@ -1,13 +1,23 @@
 from tkinter import *
 import time
 import math
+
+def b1():
+	pass
+def b2():
+	pass
+def b3():
+	pass
+def b4():
+	pass
+
 tk=Tk()
 tk.title("In a glass closet")
 canvas=Canvas(tk,width=1280,height=720)
-button1=Button(tk,text="BUTTON 1",bg="#007fff",font="bold")
-button2=Button(tk,text="BUTTON 2",bg="#ff0000",font="bold")
-button3=Button(tk,text="BUTTON 3",bg="#00ff00",font="bold")
-button4=Button(tk,text="BUTTON 4",bg="#ff7f00",font="bold")
+button1=Button(tk,text="BUTTON 1",bg="#007fff",font="bold",command=b1)
+button2=Button(tk,text="BUTTON 2",bg="#ff0000",font="bold",command=b2)
+button3=Button(tk,text="BUTTON 3",bg="#00ff00",font="bold",command=b3)
+button4=Button(tk,text="BUTTON 4",bg="#ff7f00",font="bold",command=b4)
 canvas.grid(row=0,column=0,columnspan=4,sticky=NSEW)
 button1.grid(row=1,column=0,sticky=NSEW)
 button2.grid(row=1,column=1,sticky=NSEW)

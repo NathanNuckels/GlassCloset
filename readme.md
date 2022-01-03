@@ -10,3 +10,11 @@ To understand the name you need to know quite a bit of gay slang. No really, lik
 | Outed [by someone]       | This is when someone, for lack of a better term, drags someone else out of the closet against their will. | Its actually illegal in Japan!                                                                                                |
 | Glass closet             | When someone is still closeted, but everyone already knows what they are hideing.                         | I wrote a poem about this one in school. https://github.com/NathanNuckels/TheyKilledNotepad/blob/main/Writing/poatry.txt#L203 |
 
+### There's a file missing!
+
+Yeah. There is. 
+
+To replace nsfw.py with a working version you need to go to my FurAffinity, clikc journals, find "nsfw look up table" and copy everything.
+Then, open nsfw.py in notepad and delete everything, then paste the text you copied earlier.
+
+If you have my FurAffinity username then I clearly trust you with what I'm hideing.
